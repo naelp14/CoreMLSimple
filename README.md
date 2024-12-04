@@ -1,0 +1,1 @@
+Simple COREML apps example
